@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Rareș! <br/><a href="[PUNE_LINK_LINKEDIN_AICI]">ETTI Student</a>, <a href="https://github.com/Rares200526">Hardware & Software Developer</a>, <a href="[PUNE_LINK_STEAM_AICI]">Gamer</a></h1>
 
-<!--
-**Rares200526/Rares200526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 About Me:</h2>
 
-Here are some ideas to get you started:
+- <b>Education:</b> Politehnica University of Bucharest (UPB)
+  - Faculty of Electronics, Telecommunications and Information Technology (ETTI)
+- <b>Tech Interests:</b> Embedded Systems, Circuit Design, and Object-Oriented Programming
+- <b>Current Focus:</b> Bridging the gap between physical hardware and digital software (currently tinkering with Arduino & C/C++)
+- <b>Hobbies:</b> When I'm not studying or wiring up breadboards, I'm usually immersed in video games 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<h2>🛠️ Hardware & Software Projects:</h2>
+
+- <b>Embedded Systems (Arduino / C++)</b>
+  - [Traffic Light Controller Simulator](https://github.com/Rares200526/Arduino-Traffic-Light)
+
